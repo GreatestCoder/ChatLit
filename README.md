@@ -2,6 +2,11 @@
 
 A modern full-stack real-time chat application built with the MERN stack, designed to deliver seamless communication with instant messaging, image sharing, user presence tracking, and customizable themes.
 
+## 🌐 Live Demo
+
+🚀 **Try it here:** https://chatlit.onrender.com
+
+
 ## 🚀 Features
 
 ### 🔐 Authentication & Security
